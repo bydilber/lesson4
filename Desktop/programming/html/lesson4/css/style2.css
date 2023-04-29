@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#frame{position: relative;
+    width: 1853px;
+    height: 1818px;
+    
+    background: #FFFFFF;
+}
+#basliq{
+    position: absolute;
+    width: 1838px;
+    height: 132px;
+    left: 0px;
+    top: 0px;
+    
+    background-color: #109E97;
+}
+#kitab{
+    position: absolute;
+width: 306px;
+height: 50px;
+left: 766px;
+top: 33px;
+font-style: normal;
+font-weight: 400;
+font-size: 49px;
+line-height: 50px;
+color: #FFFFFF;
+}
+#qutu1{
+    position: absolute;
+width: 1103px;
+height: 454px;
+left: 368px;
+top: 232px;
+display: inline;
+border: 2px solid #FFD6D6;
+}
+#sekil1{
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    margin:2px 801px 2px 2px;
+    display: inline-block;
+}
+#box2{
+    position: absolute;
+    width: 718px;
+    height: 71px;
+    border: 2px solid #B0E9B0;
+    margin: 2px 3px 381px 382px;
+}
+#box3{
+    position: absolute;
+    width: 718px;
+    height: 266px;
+    border: 2px solid #B0E9B0;
+    margin: 186px 3px 2px 382px;
+}
+#david{
+    font-size: 26px;
+    text-align: left;
+    padding-left: 2px;
+    padding-bottom: 16px;
+}
+#azn1{
+    
+    font-size: 25px;
+    color:#008000;
+    display: inline-block;
+}
+#azn2{
+    display: inline;
+    font-size: 16px;
+    color:#FF0000;
+    
+}
+#qisa{
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+#metn{
+    font-size: 18px;
+    padding-bottom: 18px;
+}
+#btn1{
+    background: #109E97;
+    border: 1px solid #109E97;
+    border-radius: 4px;
+    position: absolute;
+    width: 149px;
+    height: 48px;
+    color:#FFFFFF;
+    margin-top: 10px;
+}
+#x{
+    font-size: 20px;
+    position: absolute;
+    width: 169px;
+    height: 20px;
+    left: 834px;
+    top: 785px;
+    padding-bottom: 20px;
+}
+table{
+    position: absolute;
+    width: 1111px;
+    height: 132px;
+    top: 805px;
+    margin-left: 370px;
+}
+#img2{
+    position: absolute;
+    width: 300px;
+    height: 455px;
+    left: 368px;
+    top: 1133px;
+}
+#img3{
+    position: absolute;
+    width: 300px;
+    height: 455px;
+    left: 1176px;
+    top: 1133px;
+    display: inline-block;
+}
+#box1{
+    position: absolute;
+    top: 1089px;
+    width: 302px;
+    height: 506px;
+    text-align: center;
+    left: 776px;
+}
+#serh{
+    font-size: 24px;
+}
+#text1 {
+    width: 185px;
+    height: 21px;
+}
+#date{
+    width: 133px;
+    height: 24px;
+}
+#dil{
+    width: 93px;
+    height: 19px;
+}
+#area{
+    margin:auto;
+    width: 261px;
+    height: 156px;
+    border: 1px solid #767676;
+}
+#btn2{width: 91px;
+    height: 48px;
+    background: #109E97;
+    border: 1px solid #109E97;
+    border-radius: 4px;
+    color:#FFD6D6;
+}
+#end{
+    position: absolute;
+    width: 1838px;
+    height: 98px;
+    background-color:#109E97;
+    left: 0px;
+    top: 1720px;
+}
+#sonsoz{
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+    padding:41px 814px ;
+}
+#daire1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1778px;
+    top: 300px;
+
+    background: #109E97;
+    border-radius: 100px;
+}
+#daire2{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 1778px;
+top: 350px;
+
+background: #109E97;
+border-radius: 100px;
+}
+#daire3{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 1778px;
+top: 400px;
+
+background: #109E97;
+border-radius: 100px;
+}
+#daire4{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 1778px;
+top: 450px;
+
+background: #109E97;
+border-radius: 100px;
+}
+#daire5{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 1778px;
+top: 516px;
+
+background: #808080;
+border-radius: 100px;
+}
